@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated software release. A DOI can be added after archival deposit."
+title: "Phobos primary-impact simulations: Monte Carlo and validation code"
+type: software
+authors:
+  - family-names: "Kikuchi"
+    given-names: "Hiroshi"
