@@ -1,0 +1,15 @@
+{
+  "description": "SHA256 of user-provided as-run sources and CSVs; original manifest has local absolute paths and was not copied verbatim",
+  "sha256": {
+    "data/model_v004_pg1_36cases_four_sector_global_v2.csv": "dae2929bc4b1d05825b8b393a11ba10c118be9121790b500feac2438a8cf8ec3",
+    "results/lwss_36cases_export_v1/manifest_v1.csv": "75999f5888ee557c6fdbee40b4a16da0882e6fa919ad66aa20de5d43e8c46084",
+    "results/lwss_36cases_export_v1/sector_summary_v1.csv": "feacc26d1d9254e316a46bfb0cb043f419f515b5769395c7f371e85557ba92a1",
+    "results/v004_pg1_model_Stickney25_mask_v2.csv": "c19a775d91e9f468fda74e8071283ded37c32e65a049c442cb0fd6ba756e3505",
+    "scripts/rebuild_exact_four_sector_from_raw_v2.py": "273814fb23bd2229af785638f48b4d62aac90f3c0dd83e31e69bf860d109d071",
+    "scripts/rebuild_masked_model_only_v2.py": "020a03140c254dad29fed57accb4a037a15486198c4524f72468989b034125ef",
+    "tools/make_v004_pg1_impact_maps_v1.py": "6a9508de076e2f3d2814194afb6df379395c3023d725d0311825d02e8583ea06",
+    "tools/run_lwss_campaign_v1.py": "26b335349b6bafaae9628942363371e8aaa339328b6922811018e542d565fffa",
+    "tools/run_paper_figures_v1.sh": "becc01e83af8b61a37180744829485c40011648266d452fe870fa0edf9bc7c9e",
+    "tools/summarize_lwss_campaign_v1.py": "5591a85a7a4cd89a4a9e03c1c6256e1306a0d21ddc322b9792485bb6c8193199"
+  }
+}
