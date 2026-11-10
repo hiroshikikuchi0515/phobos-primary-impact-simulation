@@ -1,0 +1,23 @@
+# Generated build files
+build/
+*.o
+*.out
+*.exe
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Large/raw simulation outputs and local external assets
+results/raw/
+logs/
+*.obj
+*.bsp
+*.fits
+*.cub
+*.dsk
+*.tar.gz
+
+# OS and editor
+.DS_Store
+.vscode/
+.idea/
