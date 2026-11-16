@@ -4,7 +4,7 @@ Source code and selected derived research data supporting the manuscript:
 
 > Kikuchi, H., *Primary-impact asymmetries on Phobos: orbital-distance and speed dependence, Mars shielding, and the limitations of crater-record inference*, prepared for *Icarus* (2026).
 
-**Status:** Research software and derived-data release candidate. A versioned GitHub release and Zenodo DOI have not yet been issued. This repository documents and supports verification of important manuscript results, but it is **not a self-contained, end-to-end reproduction environment for every figure**.
+**Status:** Versioned research software and derived-data archive. See GitHub Releases and the associated Zenodo record for persistent citation information. The repository supports verification of important manuscript results but is not a self-contained reproduction environment for every figure.
 
 ## Scientific scope
 
