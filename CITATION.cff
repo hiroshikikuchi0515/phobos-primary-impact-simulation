@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Kikuchi
     given-names: Hiroshi
+version: 1.0.0
 repository-code: "https://github.com/hiroshikikuchi0515/phobos-primary-impact-simulation"
 url: "https://github.com/hiroshikikuchi0515/phobos-primary-impact-simulation"
 abstract: "Monte Carlo simulations and derived results supporting a study of primary-impact asymmetries on Phobos, including Mars gravity, shielding, orbital-radius and speed dependence, and irregular-shape effects."
