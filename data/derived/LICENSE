@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Hiroshi Kikuchi, for original contributions and rights held by the author.
+
+To the extent that Hiroshi Kikuchi holds copyright or applicable database rights
+in the original derived numeric summaries and compilations in this directory,
+these contributions are made available under the Creative Commons Attribution
+4.0 International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+A human-readable summary is available at:
+https://creativecommons.org/licenses/by/4.0/
+
+Users should give attribution to Hiroshi Kikuchi, cite the version-specific
+archived dataset/repository DOI once assigned, link the license and indicate
+modifications. See README.md and ../../CITATION.cff for dataset descriptions
+and citation metadata.
+
+This license does NOT purport to license any third-party rights in the source
+crater catalogs, shape meshes, ephemerides, or other external inputs.
+Observational counts in this directory are author-produced summaries of
+published catalogs and must be accompanied by citation to their originating
+catalog publications. Original individual crater records are not included.
+Numerical facts themselves may not be subject to copyright; the licensing
+notice applies only to rights that the author is legally able to grant.
+
+No warranties are provided, to the extent permitted by applicable law.
